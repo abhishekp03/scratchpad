@@ -19,7 +19,7 @@ Coding is not just about solving problems; it's also about understanding differe
 To get started with Scratchpad, follow these simple steps:
 
 1. **Clone the Repository:**
-https://github.com/abhishekp03/scratchpad.git
+git clone https://github.com/abhishekp03/scratchpad.git
 
 
 2. **Explore the Languages Directory:**
