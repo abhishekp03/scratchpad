@@ -19,8 +19,7 @@ Coding is not just about solving problems; it's also about understanding differe
 To get started with Scratchpad, follow these simple steps:
 
 1. **Clone the Repository:**
-
-git clone https://github.com/your-username/scratchpad.git
+https://github.com/abhishekp03/scratchpad.git
 
 
 2. **Explore the Languages Directory:**
@@ -33,13 +32,10 @@ Open the language directory, and you'll find code examples, exercises, and READM
 Use this repository to learn, practice, and share your knowledge. Don't hesitate to create your own code samples or projects to contribute back to the community.
 
 ## Languages
-
 Here are some of the programming languages and paradigms you can explore in this repository:
 
 - [Java](java/) - A popular, object-oriented language used in a variety of applications.
 - [Go](go/) - Go is an open source programming language that makes it simple to build secure, scalable systems.
-
-...and many more! We're continuously adding new languages and paradigms to help you expand your coding horizons.
 
 ## How to Use
 
