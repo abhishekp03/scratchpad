@@ -1,6 +1,6 @@
 # Scratchpad Repository
 
-![Scratchpad Logo](scratchpad-logo.png)
+<img src="./scratchpad-logo.png" width="40" height="40" />
 
 Welcome to the Scratchpad repository! This is a place where you can experiment with different coding language paradigms and explore various programming concepts. Whether you're a seasoned developer looking to try something new or a beginner eager to learn, this repository is your playground.
 
